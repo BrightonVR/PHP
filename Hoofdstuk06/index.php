@@ -16,7 +16,7 @@
 </head>
 <body>
 
-<a href="*.php">*</a> <br>
+<a href="formulier.php">formulier</a> <br>
 
 
 </body>
