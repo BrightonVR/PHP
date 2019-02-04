@@ -21,6 +21,7 @@
 <a href="Hoofdstuk03/index.php">Hoofdstuk 3 Index</a> <br>
 <a href="Hoofdstuk04/index.php">Hoofdstuk 4 Index</a> <br>
 <a href="Hoofdstuk05/index.php">Hoofdstuk 5 Index</a> <br>
+<a href="Hoofdstuk06/index.php">Hoofdstuk 6 Index</a> <br>
 
 </body>
 </html>
